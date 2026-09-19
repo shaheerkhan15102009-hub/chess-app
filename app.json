@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Pocket Chess",
+    "slug": "pocket-chess",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#101827"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.pocketchess"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#101827"
+      },
+      "package": "com.example.pocketchess"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
